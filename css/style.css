@@ -358,7 +358,6 @@ h3 {
 }
 
 .image-box1 p {
-    width: 100%;
     position: absolute;
     top:40%;
     left:40%;
@@ -376,7 +375,6 @@ h3 {
 }
 
 .image-box2 p {
-    width: 100%;
     position: absolute;
     top: 40%;
     left: 40%;
